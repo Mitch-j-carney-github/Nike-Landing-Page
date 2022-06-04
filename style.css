@@ -45,7 +45,10 @@ body {
     height: 100%;
 
  } body {
-
+     
+    background-image: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     min-height: 100%;
 
 } .form-center {
